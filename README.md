@@ -14,7 +14,7 @@ You can then `var svnMonitor = require('svnmonitor');`
 ###Manually
 
 1. Go to your node apps root dir
-2. Run 'git clone git@github.com:puj/svnmonitor.git'
+2. Run 'git clone git@github.com:gmkou/svnmonitor.git'
 3. Add  'var svnMonitor = require("./lib/svnmonitor");' to your requires.
 
 Currently only supports the 'svn log' command.
